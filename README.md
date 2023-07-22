@@ -14,7 +14,7 @@ Ambitious web developer, UI/UX designer, Photo & Video editor..
 - 🕵️ [JobSearch](https://pradeepkarki112.github.io/JobSearch/)
 
 ### ⚡ Languages & tools 
-![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,redux,nextjs,prisma,tailwind,firebase,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,redux,nextjs,tailwind,firebase,git&theme=dark)
 
 ### 📖 Currently learning
 ![skills](https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark)
