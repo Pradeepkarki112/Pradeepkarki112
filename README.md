@@ -14,7 +14,7 @@ Ambitious web developer, UI/UX designer, Photo & Video editor..
 - 🕵️ [JobSearch](https://pradeepkarki112.github.io/JobSearch/)
 
 ### ☀️ Working Projects
-- 🌐 [Graphic Marg]
+- 🌐 [Graphic Site]
 - 🚜 [Farmy Farm]
 
 ### ⚡ Languages & tools 
