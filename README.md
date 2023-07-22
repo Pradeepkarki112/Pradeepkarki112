@@ -13,6 +13,10 @@ Ambitious web developer, UI/UX designer, Photo & Video editor..
 - 🍔 [Restaurant](https://pradeepkarki112.github.io/JB-Restaurant/)
 - 🕵️ [JobSearch](https://pradeepkarki112.github.io/JobSearch/)
 
+### ☀️ Working Projects
+- 🌐 [Graphic Marg]
+- 🚜 [Farmy Farm]
+
 ### ⚡ Languages & tools 
 ![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,react,redux,nextjs,tailwind,firebase,git&theme=dark)
 
