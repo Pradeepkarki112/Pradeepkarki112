@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Pradeep Karki</h1>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pardeep.karki.378/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pardeep.karki.378/)
 
 Ambitious web developer, UI/UX designer, Photo & Video editor..
 
