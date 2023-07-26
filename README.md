@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Pradeep Karki</h1>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/pardeep.karki.378/)
-
 Ambitious web developer, UI/UX designer, Photo & Video editor..
 
 - 🎓 Currently studying Bachelors of Science in Computer Science & Information Technology.
