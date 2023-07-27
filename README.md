@@ -17,7 +17,7 @@ Ambitious web developer, UI/UX designer, Photo & Video editor..
 - 🚜 [Farmy Farm]
 
 ### ⚡ Languages & tools 
-![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,react,redux,nextjs,tailwind,firebase,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,react,redux,nextjs,tailwind,django,firebase,git&theme=dark)
 
 ### ✨ Familiar with 
 ![skills](https://skillicons.dev/icons?i=figma,wordpress,php,postgres,ps,pr,git,github&theme=dark&perline=4)
