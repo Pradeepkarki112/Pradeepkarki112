@@ -10,6 +10,7 @@ Ambitious web developer, UI/UX designer, Photo & Video editor..
 - ☔ [Weather](https://pradeepkarki112.github.io/JB-Weather/)
 - 🍔 [Restaurant](https://pradeepkarki112.github.io/JB-Restaurant/)
 - 🕵️ [JobSearch](https://pradeepkarki112.github.io/JobSearch/)
+- 📝 [JabloGablo](https://jablogablo.blogspot.com/)
 
 ### ☀️ Working Projects
 - 🌐 [Graphic Site]
