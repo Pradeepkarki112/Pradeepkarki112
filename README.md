@@ -2,7 +2,7 @@
 
 Ambitious Web Developer, UI/UX designer, Photo & Video editor..
 
-- 🎓 Currently studying Bachelors of Science in Computer Science & Information Technology.
+- 🎓 Bachelors of Science in Computer Science & Information Technology.
 - 📫 Reach me via karkipradeep112@gmail.com
 
 ### 🌙 Recent Projects
