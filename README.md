@@ -5,7 +5,7 @@ Ambitious Web Developer, UI/UX designer, Photo & Video editor..
 - 🎓 Bachelors of Science in Computer Science & Information Technology.
 - 📫 Reach me via karkipradeep112@gmail.com
 
-### 🌙 Recent Projects
+### 🌙 Recent Open Projects
 - ☔ [Weather](https://pradeepkarki112.github.io/JB-Weather/)
 - 🍔 [Restro](https://pradeepkarki112.github.io/Restro/)
 - 🕵️ [JobSearch](https://pradeepkarki112.github.io/JobSearch/)
