@@ -6,13 +6,14 @@ Ambitious Web Developer, UI/UX designer, Photo & Video editor..
 - 📫 Reach me via karkipradeep112@gmail.com
 
 ### 🌙 Open Demo Projects
-- ☔ [Weather](https://pradeepkarki112.github.io/JB-Weather/)
-- 🍔 [Restro](https://pradeepkarki112.github.io/Restro/)
-- 🕵️ [JobSearch](https://pradeepkarki112.github.io/JobSearch/)
+- Ⓜ️ [Medhavhi](https://medhavhi.com/)
+- 🍔 [ConnectShift](https://connectshifts.com/)
+- 🌐 [Earthier](https://earthier.net/)
+- 💲 [Nepal e-billing](https://nepalebilling.com/)
 - 📝 [JabloGablo](https://jablogablo.blogspot.com/)
 
 ### ☀️ Working Projects
-- 🌐 [Graphic Site]
+- 🏨 [POS]
 - 🚜 [Farmy Farm]
 
 ### ⚡ Languages & tools 
