@@ -6,8 +6,8 @@ Ambitious Web Developer, UI/UX designer, Photo & Video editor..
 - 📫 Reach me via karkipradeep112@gmail.com
 
 ### 🌙 Recent Projects
-- Ⓜ️ [Medhavhi](https://medhavhi.com/)
-- 🍔 [ConnectShift](https://connectshifts.com/)
+- 👨‍🏫 [Medhavhi](https://medhavhi.com/)
+- 👷‍♂️ [ConnectShift](https://connectshifts.com/)
 - 🌐 [Earthier](https://earthier.net/)
 - 💲 [Nepal e-billing](https://nepalebilling.com/)
 - 📝 [JabloGablo](https://jablogablo.blogspot.com/)
