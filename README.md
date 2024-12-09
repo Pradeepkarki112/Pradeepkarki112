@@ -5,7 +5,7 @@ Ambitious Web Developer, UI/UX designer, Photo & Video editor..
 - 🎓 Bachelors of Science in Computer Science & Information Technology.
 - 📫 Reach me via karkipradeep112@gmail.com
 
-### 🌙 Open Recent Projects
+### 🌙 Recent Projects
 - Ⓜ️ [Medhavhi](https://medhavhi.com/)
 - 🍔 [ConnectShift](https://connectshifts.com/)
 - 🌐 [Earthier](https://earthier.net/)
